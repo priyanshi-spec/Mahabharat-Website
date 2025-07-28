@@ -1,0 +1,29 @@
+.img{ height:60%;
+            width:80%;
+     
+     }  
+     h1{font-style: italic;
+    }
+     h2{color:grey;
+    text-transform:uppercase;
+font-style: italic;
+}
+.container {
+  text-align: center;
+  padding: 20px;
+  background-color:white;
+  box-shadow: 0 0 10px white;
+  box-sizing:border-box;
+  border-radius: 10px;
+  max-width: 1500px;
+  margin:0 auto;
+  width:90%;
+
+}
+h3{text-transform: uppercase;}
+h4{font-weight:100;
+    font-family:Georgia,'Times New Roman', serif; 
+    font-size:larger;
+    letter-spacing:0.01em;
+    line-height: 1.6;
+}
