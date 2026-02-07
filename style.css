@@ -67,7 +67,7 @@ li a{
 
 li a:hover{
 			text-decoration:underline;
-			text-decoration-color:yellow;
+			text-decoration-color:red;
 }
 header{
 	text-align:center;
@@ -86,11 +86,37 @@ header{
 .three{
 	height:40px;
 	width:60%;
-	padding-bottom:8%;
+	padding-bottom:25%;
 }
 .four{
 	height:40px;
 	width:60%;
-	padding-bottom:9%;
+	padding-bottom:30%;
 }
+.five{
+	height:40px;
+	width:60%;
+	padding-bottom:40%;
+}
+.six{
+	height:40px;
+	width:60%;
+	padding-bottom:18%;
+}
+.seven{
+	height:40px;
+	width:60%;
+	padding-bottom:50%;
+}
+.eight{
+	height:40px;
+	width:60%;
+	padding-bottom:21%;
+}
+.nine{
+	height:40px;
+	width:60%;
+	padding-bottom:5%;
+}
+
 
